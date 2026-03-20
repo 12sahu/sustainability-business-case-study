@@ -87,7 +87,4 @@ Companies that adopt sustainable practices can achieve **long-term growth and ef
 * Python 🐍
 * Pandas
 * Matplotlib
-* Jupyter Notebook
-
-
-**Riddhi Sahu**
+* Jupyter Notebook *
